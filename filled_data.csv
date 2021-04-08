@@ -1,0 +1,176 @@
+Utterance,Intent
+I wanna buy tickets for KEYWORD around 3 for 3 people.,book_tour
+I wanna buy tickets for KEYWORD around 3 for 1.,book_tour
+I wanna buy tickets for KEYWORD around 3 for a few.,book_tour
+I wanna buy tickets for KEYWORD noon for 3 people.,book_tour
+I wanna buy tickets for KEYWORD noon for 1.,book_tour
+I wanna buy tickets for KEYWORD noon for a few.,book_tour
+I wanna buy tickets for KEYWORD 7:30pm for 3 people.,book_tour
+I wanna buy tickets for KEYWORD 7:30pm for 1.,book_tour
+I wanna buy tickets for KEYWORD 7:30pm for a few.,book_tour
+Tell me more about Russia.,"describe_location, recommend_poi"
+Tell me more about Poland.,"describe_location, recommend_poi"
+Tell me more about San Fransisco.,"describe_location, recommend_poi"
+Show me top attractions Russia.,"describe_location, recommend_poi"
+Show me top attractions Poland.,"describe_location, recommend_poi"
+Show me top attractions San Fransisco.,"describe_location, recommend_poi"
+What are the top things to do in Russia?,"describe_location, recommend_poi"
+What are the top things to do in Poland?,"describe_location, recommend_poi"
+What are the top things to do in San Fransisco?,"describe_location, recommend_poi"
+What can I do in Russia around 3?,recommend_activity
+What can I do in Russia noon?,recommend_activity
+What can I do in Russia 7:30pm?,recommend_activity
+What can I do in Poland around 3?,recommend_activity
+What can I do in Poland noon?,recommend_activity
+What can I do in Poland 7:30pm?,recommend_activity
+What can I do in San Fransisco around 3?,recommend_activity
+What can I do in San Fransisco noon?,recommend_activity
+What can I do in San Fransisco 7:30pm?,recommend_activity
+I’m looking for the good KEYWORD in Russia with budget around 2 for around 3.,recommend_activity
+I’m looking for the good KEYWORD in Russia with budget around 2 for noon.,recommend_activity
+I’m looking for the good KEYWORD in Russia with budget around 2 for 7:30pm.,recommend_activity
+I’m looking for the good KEYWORD in Russia with budget around twenty five dollars for around 3.,recommend_activity
+I’m looking for the good KEYWORD in Russia with budget around twenty five dollars for noon.,recommend_activity
+I’m looking for the good KEYWORD in Russia with budget around twenty five dollars for 7:30pm.,recommend_activity
+I’m looking for the good KEYWORD in Russia with budget around under a thousand for around 3.,recommend_activity
+I’m looking for the good KEYWORD in Russia with budget around under a thousand for noon.,recommend_activity
+I’m looking for the good KEYWORD in Russia with budget around under a thousand for 7:30pm.,recommend_activity
+I’m looking for the good KEYWORD in Poland with budget around 2 for around 3.,recommend_activity
+I’m looking for the good KEYWORD in Poland with budget around 2 for noon.,recommend_activity
+I’m looking for the good KEYWORD in Poland with budget around 2 for 7:30pm.,recommend_activity
+I’m looking for the good KEYWORD in Poland with budget around twenty five dollars for around 3.,recommend_activity
+I’m looking for the good KEYWORD in Poland with budget around twenty five dollars for noon.,recommend_activity
+I’m looking for the good KEYWORD in Poland with budget around twenty five dollars for 7:30pm.,recommend_activity
+I’m looking for the good KEYWORD in Poland with budget around under a thousand for around 3.,recommend_activity
+I’m looking for the good KEYWORD in Poland with budget around under a thousand for noon.,recommend_activity
+I’m looking for the good KEYWORD in Poland with budget around under a thousand for 7:30pm.,recommend_activity
+I’m looking for the good KEYWORD in San Fransisco with budget around 2 for around 3.,recommend_activity
+I’m looking for the good KEYWORD in San Fransisco with budget around 2 for noon.,recommend_activity
+I’m looking for the good KEYWORD in San Fransisco with budget around 2 for 7:30pm.,recommend_activity
+I’m looking for the good KEYWORD in San Fransisco with budget around twenty five dollars for around 3.,recommend_activity
+I’m looking for the good KEYWORD in San Fransisco with budget around twenty five dollars for noon.,recommend_activity
+I’m looking for the good KEYWORD in San Fransisco with budget around twenty five dollars for 7:30pm.,recommend_activity
+I’m looking for the good KEYWORD in San Fransisco with budget around under a thousand for around 3.,recommend_activity
+I’m looking for the good KEYWORD in San Fransisco with budget around under a thousand for noon.,recommend_activity
+I’m looking for the good KEYWORD in San Fransisco with budget around under a thousand for 7:30pm.,recommend_activity
+Find me some KEYWORD that's available  on Friday March 7 in Russia,recommend_activity
+Find me some KEYWORD that's available  on Friday March 7 in Poland,recommend_activity
+Find me some KEYWORD that's available  on Friday March 7 in San Fransisco,recommend_activity
+Find me some KEYWORD that's available  on 10-12-15 in Russia,recommend_activity
+Find me some KEYWORD that's available  on 10-12-15 in Poland,recommend_activity
+Find me some KEYWORD that's available  on 10-12-15 in San Fransisco,recommend_activity
+Find me some KEYWORD that's under 2 and available  on Friday March 7 in Russia,recommend_activity
+Find me some KEYWORD that's under 2 and available  on Friday March 7 in Poland,recommend_activity
+Find me some KEYWORD that's under 2 and available  on Friday March 7 in San Fransisco,recommend_activity
+Find me some KEYWORD that's under 2 and available  on 10-12-15 in Russia,recommend_activity
+Find me some KEYWORD that's under 2 and available  on 10-12-15 in Poland,recommend_activity
+Find me some KEYWORD that's under 2 and available  on 10-12-15 in San Fransisco,recommend_activity
+Find me some KEYWORD that's under twenty five dollars and available  on Friday March 7 in Russia,recommend_activity
+Find me some KEYWORD that's under twenty five dollars and available  on Friday March 7 in Poland,recommend_activity
+Find me some KEYWORD that's under twenty five dollars and available  on Friday March 7 in San Fransisco,recommend_activity
+Find me some KEYWORD that's under twenty five dollars and available  on 10-12-15 in Russia,recommend_activity
+Find me some KEYWORD that's under twenty five dollars and available  on 10-12-15 in Poland,recommend_activity
+Find me some KEYWORD that's under twenty five dollars and available  on 10-12-15 in San Fransisco,recommend_activity
+Find me some KEYWORD that's under under a thousand and available  on Friday March 7 in Russia,recommend_activity
+Find me some KEYWORD that's under under a thousand and available  on Friday March 7 in Poland,recommend_activity
+Find me some KEYWORD that's under under a thousand and available  on Friday March 7 in San Fransisco,recommend_activity
+Find me some KEYWORD that's under under a thousand and available  on 10-12-15 in Russia,recommend_activity
+Find me some KEYWORD that's under under a thousand and available  on 10-12-15 in Poland,recommend_activity
+Find me some KEYWORD that's under under a thousand and available  on 10-12-15 in San Fransisco,recommend_activity
+Show me some KEYWORD that's under 2 and available  on Friday March 7 in Russia,recommend_activity
+Show me some KEYWORD that's under 2 and available  on Friday March 7 in Poland,recommend_activity
+Show me some KEYWORD that's under 2 and available  on Friday March 7 in San Fransisco,recommend_activity
+Show me some KEYWORD that's under 2 and available  on 10-12-15 in Russia,recommend_activity
+Show me some KEYWORD that's under 2 and available  on 10-12-15 in Poland,recommend_activity
+Show me some KEYWORD that's under 2 and available  on 10-12-15 in San Fransisco,recommend_activity
+Show me some KEYWORD that's under twenty five dollars and available  on Friday March 7 in Russia,recommend_activity
+Show me some KEYWORD that's under twenty five dollars and available  on Friday March 7 in Poland,recommend_activity
+Show me some KEYWORD that's under twenty five dollars and available  on Friday March 7 in San Fransisco,recommend_activity
+Show me some KEYWORD that's under twenty five dollars and available  on 10-12-15 in Russia,recommend_activity
+Show me some KEYWORD that's under twenty five dollars and available  on 10-12-15 in Poland,recommend_activity
+Show me some KEYWORD that's under twenty five dollars and available  on 10-12-15 in San Fransisco,recommend_activity
+Show me some KEYWORD that's under under a thousand and available  on Friday March 7 in Russia,recommend_activity
+Show me some KEYWORD that's under under a thousand and available  on Friday March 7 in Poland,recommend_activity
+Show me some KEYWORD that's under under a thousand and available  on Friday March 7 in San Fransisco,recommend_activity
+Show me some KEYWORD that's under under a thousand and available  on 10-12-15 in Russia,recommend_activity
+Show me some KEYWORD that's under under a thousand and available  on 10-12-15 in Poland,recommend_activity
+Show me some KEYWORD that's under under a thousand and available  on 10-12-15 in San Fransisco,recommend_activity
+What are things to do under 2?,recommend_activity
+What are things to do under twenty five dollars?,recommend_activity
+What are things to do under under a thousand?,recommend_activity
+What's fun around here?,"recommend_activity, recommend_poi"
+Must do things in Russia,"recommend_activity, recommend_poi"
+Must do things in Poland,"recommend_activity, recommend_poi"
+Must do things in San Fransisco,"recommend_activity, recommend_poi"
+Is KEYWORD available Russia around 3?,tour_available
+Is KEYWORD available Russia noon?,tour_available
+Is KEYWORD available Russia 7:30pm?,tour_available
+Is KEYWORD available Poland around 3?,tour_available
+Is KEYWORD available Poland noon?,tour_available
+Is KEYWORD available Poland 7:30pm?,tour_available
+Is KEYWORD available San Fransisco around 3?,tour_available
+Is KEYWORD available San Fransisco noon?,tour_available
+Is KEYWORD available San Fransisco 7:30pm?,tour_available
+I am looking for Jeep for 7 nights in Russia,tour_available
+I am looking for Jeep for 7 nights in Poland,tour_available
+I am looking for Jeep for 7 nights in San Fransisco,tour_available
+I am looking for Jeep for overnight in Russia,tour_available
+I am looking for Jeep for overnight in Poland,tour_available
+I am looking for Jeep for overnight in San Fransisco,tour_available
+I am looking for Jeep for a couple days in Russia,tour_available
+I am looking for Jeep for a couple days in Poland,tour_available
+I am looking for Jeep for a couple days in San Fransisco,tour_available
+I am looking for car for 7 nights in Russia,tour_available
+I am looking for car for 7 nights in Poland,tour_available
+I am looking for car for 7 nights in San Fransisco,tour_available
+I am looking for car for overnight in Russia,tour_available
+I am looking for car for overnight in Poland,tour_available
+I am looking for car for overnight in San Fransisco,tour_available
+I am looking for car for a couple days in Russia,tour_available
+I am looking for car for a couple days in Poland,tour_available
+I am looking for car for a couple days in San Fransisco,tour_available
+Need information and pricing for a small group of 3 people for a 7 nights KEYWORD of Russia,tour_available
+Need information and pricing for a small group of 3 people for a 7 nights KEYWORD of Poland,tour_available
+Need information and pricing for a small group of 3 people for a 7 nights KEYWORD of San Fransisco,tour_available
+Need information and pricing for a small group of 3 people for a overnight KEYWORD of Russia,tour_available
+Need information and pricing for a small group of 3 people for a overnight KEYWORD of Poland,tour_available
+Need information and pricing for a small group of 3 people for a overnight KEYWORD of San Fransisco,tour_available
+Need information and pricing for a small group of 3 people for a a couple days KEYWORD of Russia,tour_available
+Need information and pricing for a small group of 3 people for a a couple days KEYWORD of Poland,tour_available
+Need information and pricing for a small group of 3 people for a a couple days KEYWORD of San Fransisco,tour_available
+Need information and pricing for a small group of 1 for a 7 nights KEYWORD of Russia,tour_available
+Need information and pricing for a small group of 1 for a 7 nights KEYWORD of Poland,tour_available
+Need information and pricing for a small group of 1 for a 7 nights KEYWORD of San Fransisco,tour_available
+Need information and pricing for a small group of 1 for a overnight KEYWORD of Russia,tour_available
+Need information and pricing for a small group of 1 for a overnight KEYWORD of Poland,tour_available
+Need information and pricing for a small group of 1 for a overnight KEYWORD of San Fransisco,tour_available
+Need information and pricing for a small group of 1 for a a couple days KEYWORD of Russia,tour_available
+Need information and pricing for a small group of 1 for a a couple days KEYWORD of Poland,tour_available
+Need information and pricing for a small group of 1 for a a couple days KEYWORD of San Fransisco,tour_available
+Need information and pricing for a small group of a few for a 7 nights KEYWORD of Russia,tour_available
+Need information and pricing for a small group of a few for a 7 nights KEYWORD of Poland,tour_available
+Need information and pricing for a small group of a few for a 7 nights KEYWORD of San Fransisco,tour_available
+Need information and pricing for a small group of a few for a overnight KEYWORD of Russia,tour_available
+Need information and pricing for a small group of a few for a overnight KEYWORD of Poland,tour_available
+Need information and pricing for a small group of a few for a overnight KEYWORD of San Fransisco,tour_available
+Need information and pricing for a small group of a few for a a couple days KEYWORD of Russia,tour_available
+Need information and pricing for a small group of a few for a a couple days KEYWORD of Poland,tour_available
+Need information and pricing for a small group of a few for a a couple days KEYWORD of San Fransisco,tour_available
+Do you pick up at the hotel? We are staying in Mariott at Russia,tour_inquiry
+Do you pick up at the hotel? We are staying in Mariott at Poland,tour_inquiry
+Do you pick up at the hotel? We are staying in Mariott at San Fransisco,tour_inquiry
+Do you pick up at the hotel? We are staying in nice hotel at Russia,tour_inquiry
+Do you pick up at the hotel? We are staying in nice hotel at Poland,tour_inquiry
+Do you pick up at the hotel? We are staying in nice hotel at San Fransisco,tour_inquiry
+Do you pick up at the hotel? We are staying in a hotel with a pool at Russia,tour_inquiry
+Do you pick up at the hotel? We are staying in a hotel with a pool at Poland,tour_inquiry
+Do you pick up at the hotel? We are staying in a hotel with a pool at San Fransisco,tour_inquiry
+is there pickup from the Russia for KEYWORD available?,tour_inquiry
+is there pickup from the Poland for KEYWORD available?,tour_inquiry
+is there pickup from the San Fransisco for KEYWORD available?,tour_inquiry
+Does KEYWORD offer pickup at Russia?,tour_inquiry
+Does KEYWORD offer pickup at Poland?,tour_inquiry
+Does KEYWORD offer pickup at San Fransisco?,tour_inquiry
+Can a tour guide pick us up at Russia?,tour_inquiry
+Can a tour guide pick us up at Poland?,tour_inquiry
+Can a tour guide pick us up at San Fransisco?,tour_inquiry
