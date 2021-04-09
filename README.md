@@ -6,6 +6,4 @@ Three different files for the following three tasks
 2. Generate similar questions
 3. Map user question to similar question in dataset
 
-
-Step 1.
-https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/
+These are very initial versions of what I would do for these problems, but I wanted to get this in and show you my code!
