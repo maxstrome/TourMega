@@ -1,0 +1,703 @@
+,new_utt,intent,original_utt
+0,I am not even logged in after I set my password via email. I do not have my email address and will not be able to log in to my bank account again after I set the password through VPN.,account_information,i did not get any email confirmation and cannot log in to my account with <email>
+1,What are the reasons why we cannot log in our account without confirmation?,account_information,i did not get any email confirmation and cannot log in to my account with <email>
+2,"The login is revoked I don't get any email confirmation, can I log in and if I do i wont get a login email i can't log in to account?",account_information,i did not get any email confirmation and cannot log in to my account with <email>
+3,Email authentication works but when did I get my confirmation email?,account_information,i did not get any email confirmation and cannot log in to my account with <email>
+4,"I did not register my email, was it deleted?",account_information,Can you check if I registered the correct email address <email>
+5,Can you check if I registered the correct email email>? YES I registered the email address email>,account_information,Can you check if I registered the correct email address <email>
+6,Can you see if I register my email address correctly?,account_information,Can you check if I registered the correct email address <email>
+7,Can I check if I registered the correct email address?,account_information,Can you check if I registered the correct email address <email>
+8,How can I get my current account back if I was locked out?,account_information,"I am locked out of my account, can you help?"
+9,How do I get my account locked out through AOL POSITIVE?,account_information,"I am locked out of my account, can you help?"
+10,"I accidentally locked out my Instagram account, can anyone help me?",account_information,"I am locked out of my account, can you help?"
+11,"I locked out my account, can you help me?",account_information,"I am locked out of my account, can you help?"
+12,How can we recover my password to Facebook if I don't remember my password or I forgot my password?,account_information,"I forgot my login information, can you help?"
+13,I forgot my login details. I was having a hard time signing up. How can I help?,account_information,"I forgot my login information, can you help?"
+14,I have the same login information I already have on a Google account. How can I retrieve it?,account_information,"I forgot my login information, can you help?"
+15,What is username?,account_information,What is my username?
+16,What is a username?,account_information,What is my username?
+17,How do I find my username?,account_information,How to find username?
+18,How can I find a username?,account_information,How to find username?
+19,How can I find a great username?,account_information,How to find username?
+20,How can I get back my password?,account_information,What is my password?
+21,What is my password? What is the password?,account_information,What is my password?
+22,How do I reset my password without password?,account_information,What is my password?
+23,How do I recover my old password?,account_information,Can you reset my password?
+24,How do I recover my password after I forget my email and password?,account_information,Can you reset my password?
+25,What is the best way to reset a Password in Apple?,account_information,Can you reset my password?
+26,How do I recover my password from MyGmail?,account_information,Can you reset my password?
+27,I wanna buy tickets for keyword> time> for number_of_people>.. I wanna buy the tickets for keyword> time>.,book_tour,I wanna buy tickets for <keyword> <time> for <number_of_people>.
+28,I wanna buy tickets for keyword> time> for number_of_people>.,book_tour,I wanna buy tickets for <keyword> <time> for <number_of_people>.
+29,I wanna buy tickets for keyword> time> for number_of_people>.. for example....?,book_tour,I wanna buy tickets for <keyword> <time> for <number_of_people>.
+30,How can I buy tickets for keyword> time> for number of people>?,book_tour,I wanna buy tickets for <keyword> <time> for <number_of_people>.
+31,"I want to get tickets by keyword>. I am using the password for the ticket sales. If I have that option, I need to buy tickets directly from ticket sales.",book_tour,I want tickets for <keyword>.
+32,I want tickets for name word>. but not password. no message.,book_tour,I want tickets for <keyword>.
+33,I want tickets for keyword>. How could I do?,book_tour,I want tickets for <keyword>.
+34,I want tickets for keyword>.. and I'm in S3 in Keyword>..,book_tour,I want tickets for <keyword>.
+35,"Please, book a keyword> tour for number_of_people> at time>. You will receive the tour and payment for it.",book_tour,"Please, book a <keyword> tour for <number_of_people> at <time>"
+36,Can we booking a number of people at a time?,book_tour,"Please, book a <keyword> tour for <number_of_people> at <time>"
+37,"Please, book a keyword> tour for number_of_people> at time>. Please,...please, send a keyword> tour for number_of_people>. Please, ask for a keyword> tour. Is that possible?",book_tour,"Please, book a <keyword> tour for <number_of_people> at <time>"
+38,"Please book a keyword> tour for number_of_people> at time>. Please, book a keyword> tour for number_of_people> and an estimate of ‘tour’ and time> for the tour! keyword>",book_tour,"Please, book a <keyword> tour for <number_of_people> at <time>"
+39,I need keyword> tickets for the date>. I need keyword> tickets for date>. I find the venue keyword> keyword>.,book_tour,I need <keyword> tickets for <date>
+40,I need tickets for an keyword>-event/date>-. I need keyword> tickets for date>. I need keyword> keyword>. I don’t have any ideas or ideas about what to do. I need to supply keyword> / keyword> / keyword> / keyword> / keyword> when keyword> tickets are needed. I use keyword,book_tour,I need <keyword> tickets for <date>
+41,I need keyword> tickets for date>. I need keyword> tickets for keyword>. The room is not available anymore.,book_tour,I need <keyword> tickets for <date>
+42,I need ticket> for date>. I need keyword> tickets for this date>.,book_tour,I need <keyword> tickets for <date>
+43,I am interested in booking the keyword> one person. I want the booking to be successful. I like searching for my keyword. It should be interesting.,book_tour,I am interested in booking the <keyword>
+44,"I am interested in booking the keyword in the search engine. In your opinion, use the keyword keyword>>>. Thanks..",book_tour,I am interested in booking the <keyword>
+45,I'm interested in booking the keyword> or keyword>. I am a booking officer from Canada.,book_tour,I am interested in booking the <keyword>
+46,I am interested in booking the (keyword) keyword>. I am interested in using this keyword>. I wold get the keyword but I don't know a word that makes it valid.,book_tour,I am interested in booking the <keyword>
+47,"I would like to book a date for a keyword> for phrase>. I would like to get a book, I would like to book for phrase>.",book_tour,I would like to book <keyword> for <date>
+48,I would like to book keyword> for date>. If I've been to airport in Canada /..I just used the keyword keyword>. I will be back in the US in very little time. I shall post another keyword>. What should I do?,book_tour,I would like to book <keyword> for <date>
+49,If I I found a keyword that I would like to find in a date> room. I would like to book it. I would like to be book keyword> for date> date.,book_tour,I would like to book <keyword> for <date>
+50,I would like to book keyword> for date>. I would like to book keyword> by month of September.,book_tour,I would like to book <keyword> for <date>
+51,When will the next time for keywords be available?,book_tour,When is next available time slot for <keyword>?
+52,When will the next time slot for keyword> be available?,book_tour,When is next available time slot for <keyword>?
+53,What are available time slots at the moment to do keyword>?,book_tour,When is next available time slot for <keyword>?
+54,When is keyword> to be released?,book_tour,When is next available time slot for <keyword>?
+55,I want a tour on keyword>. I want to. I want a tour onkeyword>. I want a tour on. I want a tour on. I want a tour on keyword>.,book_tour,I want a tour on <keyword>
+56,I want a tour on keyword>. I want a tour on [keyword].,book_tour,I want a tour on <keyword>
+57,I want a tour on I want a tour on keyword>. I want a tour on keyword>. What are you going to write about?,book_tour,I want a tour on <keyword>
+58,I want a tour on keyword>. I want a tour on keyword>.,book_tour,I want a tour on <keyword>
+59,Top rated keyword> tour for keyword>?,book_tour,Top rated tour for <keyword>
+60,Top rated tours in keyword>?,book_tour,Top rated tour for <keyword>
+61,"Top rated tour for keyword ""top rated tour"". Also popular.",book_tour,Top rated tour for <keyword>
+62,What are the best rated tour (TOUR) for ‘Keyword’?,book_tour,Top rated tour for <keyword>
+63,"Top recommended tour for ""keyword""?",book_tour,Top recommended tour for <keyword>
+64,Top recommended tour for the keyword> keyword>.,book_tour,Top recommended tour for <keyword>
+65,Top recommend tour for keyword>.,book_tour,Top recommended tour for <keyword>
+66,Top recommend tour for keyword>..,book_tour,Top recommended tour for <keyword>
+67,Tell me more about the ‘location’.,"describe_location, recommend_poi",Tell me more about <location>.
+68,How do I know more about your village?,"describe_location, recommend_poi",Tell me more about <location>.
+69,Tell me more about location>.,"describe_location, recommend_poi",Tell me more about <location>.
+70,What is Location?,"describe_location, recommend_poi",Tell me more about <location>.
+71,Tell me a funny fact about location>.,"describe_location, recommend_poi",Tell me funny facts about <location>.
+72,Tell me some funny facts about location?,"describe_location, recommend_poi",Tell me funny facts about <location>.
+73,Tell me some interesting facts about locations>.,"describe_location, recommend_poi",Tell me funny facts about <location>.
+74,Tell me what is the funny story about location?,"describe_location, recommend_poi",Tell me funny facts about <location>.
+75,Show me the top attractions in your area. No borders.,"describe_location, recommend_poi",Show me top attractions <location>.
+76,Show me the best attractions in your area if you can.,"describe_location, recommend_poi",Show me top attractions <location>.
+77,Show me location> best attractions.,"describe_location, recommend_poi",Show me top attractions <location>.
+78,Show me the best attractions in the whole world.,"describe_location, recommend_poi",Show me top attractions <location>.
+79,What are some things to consider in this area?,"describe_location, recommend_poi",What are things to consider in this area?
+80,What should we all think about in this field?,"describe_location, recommend_poi",What are things to consider in this area?
+81,What are the things to consider in this area?,"describe_location, recommend_poi",What are things to consider in this area?
+82,Do the sea levels have any dangerous effects?,"describe_location, recommend_poi",Is this area safe?
+83,Is my town safe now?,"describe_location, recommend_poi",Is this area safe?
+84,How safe is this area?,"describe_location, recommend_poi",Is this area safe?
+85,Is the area safe for bsc?,"describe_location, recommend_poi",Is this area safe?
+86,What are the best things to do in location>?,"describe_location, recommend_poi",What are the top things to do in <location>?
+87,What are the best things to do in London?,"describe_location, recommend_poi",What are the top things to do in <location>?
+88,What are best things to do at a location?,"describe_location, recommend_poi",What are the top things to do in <location>?
+89,What are some good things to do in location>?,"describe_location, recommend_poi",What are the top things to do in <location>?
+90,How far is location> from location>?,generic_request,How far is <location> away from <location>?
+91,How far is from location>?,generic_request,How far is <location> away from <location>?
+92,How far away is location from location?,generic_request,How far is <location> away from <location>?
+93,How far away is location> from location?,generic_request,How far is <location> away from <location>?
+94,What's the fastest way to get to the nearest location?,generic_request,What is the fastest way to get to <location>?
+95,What is the best way to get to a 'location'?,generic_request,What is the fastest way to get to <location>?
+96,What is the fastest way to find the exact location?,generic_request,What is the fastest way to get to <location>?
+97,What is the fastest way to get to a location fast?,generic_request,What is the fastest way to get to <location>?
+98,Which are the top 40 toll roads in the United States?,generic_request,Are there any toll roads on the way to <location>?
+99,Are there any toll road on way to location>?,generic_request,Are there any toll roads on the way to <location>?
+100,Are there any Toll Roads to get from the city centre?,generic_request,Are there any toll roads on the way to <location>?
+101,Any toll roads on a way to location>?,generic_request,Are there any toll roads on the way to <location>?
+102,What are toll bridges?,generic_request,Are there any toll bridges on the way to <location>?
+103,Are there toll bridges around our location?,generic_request,Are there any toll bridges on the way to <location>?
+104,Are there any toll bridges to location>?,generic_request,Are there any toll bridges on the way to <location>?
+105,Are there any toll bridges on the way to location>?,generic_request,Are there any toll bridges on the way to <location>?
+106,Is there parking near location?,generic_request,Is there parking near <location>?
+107,What are the best parking spots near location>?,generic_request,Is there parking near <location>?
+108,Is there parking near location>?,generic_request,Is there parking near <location>?
+109,Is it good to be here?,needs_assistance,Hello? Are you here?
+110,How is hello everyone?,needs_assistance,Hello? Are you here?
+111,Hi there are you here?,needs_assistance,Hello? Are you here?
+112,"Hi, are you here?",needs_assistance,Hello? Are you here?
+113,Why are you not responding?,needs_assistance,Why aren't you responding?
+114,Why are you always not responding?,needs_assistance,Why aren't you responding?
+115,Why don't you respond to me?,needs_assistance,Why aren't you responding?
+116,Hey guys!,needs_assistance,Hey!
+117,Hey! How did you get here?,needs_assistance,Hey!
+118,Is it possible to talk to anyone?,needs_assistance,Can I talk to someone?
+119,When can I talk to someone?,needs_assistance,Can I talk to someone?
+120,How can I talk to someone?,needs_assistance,Can I talk to someone?
+121,"I need some assistance after completing a job application. Hi, I need some assistance.",needs_assistance,I need some assistance
+122,Why are people still paying for our services?,needs_assistance,I need some assistance
+123,I have technical assistance Need. Should I ask?,needs_assistance,I need some assistance
+124,"I need some assistance, I need some assistance. I am a graphic designer. I need some help in my questions. Please help.",needs_assistance,I need some assistance
+125,I would like to talk to a person. What should I ask?,needs_assistance,I would like to talk to a person.
+126,Can you speak with someone?,needs_assistance,I would like to talk to a person.
+127,I would like to talk to someone. What can I do?,needs_assistance,I would like to talk to a person.
+128,I would like to chat with a person for an hour.,needs_assistance,I would like to talk to a person.
+129,How do I get contact number?,needs_assistance,What is the contact info?
+130,What is the contact information of a doctor?,needs_assistance,What is the contact info?
+131,Which phone number is best to give a girl contact info?,needs_assistance,What is the contact info?
+132,Which is the best phone number for an Indian?,needs_assistance,What is the contact info?
+133,What can I do in location time?,recommend_activity,What can I do in <location> <time>?
+134,What can you do in location> time?,recommend_activity,What can I do in <location> <time>?
+135,What can I do in a location?,recommend_activity,What can I do in <location> <time>?
+136,What can I do in time?,recommend_activity,What can I do in <location> <time>?
+137,What can I do if I can't find time?,recommend_activity,What should I do <time>?
+138,What should I do with time?,recommend_activity,What should I do <time>?
+139,Why do I need time?,recommend_activity,What should I do <time>?
+140,What should I do at the same time?,recommend_activity,What should I do <time>?
+141,Can you recommend me something you like and you can do it yourself?,recommend_activity,Recommend me something <time>?
+142,What would be a good time to recommend me something?,recommend_activity,Recommend me something <time>?
+143,A time>. Recommend Me Something?,recommend_activity,Recommend me something <time>?
+144,What should be recommended to me as time?,recommend_activity,Recommend me something <time>?
+145,What are the best keys in the City?,recommend_activity,What are the best <keyword> in town?
+146,What are the best keyword> in town?,recommend_activity,What are the best <keyword> in town?
+147,What key words are all over town?,recommend_activity,What are the best <keyword> in town?
+148,What is the best “keyword” in town?,recommend_activity,What are the best <keyword> in town?
+149,How do I arrange a private tour of our country/country/country assorted persons/entries and we are looking for a tour by this name/country/company/character?,recommend_activity,We are looking for a tour <number_of_people> <location> <time>.
+150,We are looking for a tour number_of_people> location> time>.,recommend_activity,We are looking for a tour <number_of_people> <location> <time>.
+151,What would you like to tour on a free tour to your hometown?,recommend_activity,We are looking for a tour <number_of_people> <location> <time>.
+152,"Would you like to tour, please send video if possible?",recommend_activity,We are looking for a tour <number_of_people> <location> <time>.
+153,I want to read book by keyword>.,recommend_activity,I want to book <keyword>
+154,I want to book keyword>.,recommend_activity,I want to book <keyword>
+155,I want to read keyword>. I want more books.,recommend_activity,I want to book <keyword>
+156,"I want to book keyword> I want to read. I feel so lonely. I want to.. I want to be.. I want to be,..",recommend_activity,I want to book <keyword>
+157,I want to book restaurant>. I want to help to book.,recommend_activity,I want to book <restaurant>
+158,How to book a restaurant?,recommend_activity,I want to book <restaurant>
+159,I want to book restaurant> for the first time. What restaurant should I book?,recommend_activity,I want to book <restaurant>
+160,If I want to go to a restaurant I can book. Where can I go?,recommend_activity,I want to book <restaurant>
+161,I need the keyword> in location> with budget around budget> for time>. I'm looking for the good keyword> in location>.,recommend_activity,I’m looking for the good <keyword> in <location> with budget around <budget> for <time>.
+162,I’m looking for good keyword> in location> with budget around budget> for time>.,recommend_activity,I’m looking for the good <keyword> in <location> with budget around <budget> for <time>.
+163,I’m looking for the good keyword> in location> with budget around budget> for time>.,recommend_activity,I’m looking for the good <keyword> in <location> with budget around <budget> for <time>.
+164,I’m looking for a good keyword> in location> with budget around budget> for time> for my client.,recommend_activity,I’m looking for the good <keyword> in <location> with budget around <budget> for <time>.
+165,Will look up the keyword> that's available on an date> in an location>?,recommend_activity,Find me some <keyword> that's available  on <date> in <location>
+166,"Find me some keyword that's available on date> in location>. I firmly believe that if someone has a keyword> that they have, I are willing to accept for the keyword>.",recommend_activity,Find me some <keyword> that's available  on <date> in <location>
+167,Find me some keyword> that's available on date> in location>.,recommend_activity,Find me some <keyword> that's available  on <date> in <location>
+168,What my friends are saying on date in location? Find me some keyword> that's available on date> in location>.,recommend_activity,Find me some <keyword> that's available  on <date> in <location>
+169,"Find me some keyword> that's under budget> and available on date> in location>. Find me some keyword> that's under sg> with a valid keyword>, find me some keyword> that's under sg> and available on date> in location>.",recommend_activity,Find me some <keyword> that's under <budget> and available  on <date> in <location>
+170,Find me some keyword> that's under budget> and available on date> in location>.,recommend_activity,Find me some <keyword> that's under <budget> and available  on <date> in <location>
+171,Show me some keyword> that's under budget> and available on date> in location>. That's a keyword> that's under event> in location>. Is keyword> a keyword>?,recommend_activity,Show me some <keyword> that's under <budget> and available  on <date> in <location>
+172,Show me some keyword> that's under budget> and available on date> in location>!,recommend_activity,Show me some <keyword> that's under <budget> and available  on <date> in <location>
+173,Show me some basic keyword> that's Subject> and available in date> or location>.,recommend_activity,Show me some <keyword> that's under <budget> and available  on <date> in <location>
+174,Show me some keyword> that's under budget> and available on date> in location>. That's under keyword> and available on the date> and shows me some keyword> that's under keyword> in the day>.,recommend_activity,Show me some <keyword> that's under <budget> and available  on <date> in <location>
+175,"What are things we should do under the ""budget""?",recommend_activity,What are things to do under <budget>?
+176,What are the things to do to fulfil budget?,recommend_activity,What are things to do under <budget>?
+177,What should you do under budget>?,recommend_activity,What are things to do under <budget>?
+178,What is a budget? What are the things you have to do with it?,recommend_activity,What are things to do under <budget>?
+179,What is the least expensive thing to do with car and what are the keys?,recommend_activity,recommended <keyword> to do by car
+180,What is your keyword> that you need to do by car?,recommend_activity,recommended <keyword> to do by car
+181,What are the best things to do by car?,recommend_activity,recommended <keyword> to do by car
+182,What are the best places to drive by car?,recommend_activity,recommended <keyword> to do by car
+183,Fun activities for kids.,recommend_activity,Fun activities for kids
+184,What are some fun activities for kids?,recommend_activity,Fun activities for kids
+185,Fun activities for kids to do.,recommend_activity,Fun activities for kids
+186,What are fun games for kids to play together?,recommend_activity,Fun activities for kids
+187,I'm going to location> time>. I like keyword>. My budget is budget> What should I do?,recommend_activity,I'm going to <location> <time>. I like <keyword>. My budget is <budget>. What should I do?
+188,I'm going to location> time>. I like keyword>. My budget is budget>. What should I do?,recommend_activity,I'm going to <location> <time>. I like <keyword>. My budget is <budget>. What should I do?
+189,My budget for the year 2019 is budget>. What should I do?,recommend_activity,I'm going to <location> <time>. I like <keyword>. My budget is <budget>. What should I do?
+190,"Would like to see this location> address, if possible.",recommend_activity,I would like to see <location>
+191,Should I be able to see a location> in my map?,recommend_activity,I would like to see <location>
+192,"I would like to see location to location>. I have a phone with me, and the number would be more than 80 if my phone had this.",recommend_activity,I would like to see <location>
+193,What is the location where you want to see the information?,recommend_activity,I would like to see <location>
+194,I'm looking for a duration> trip from location> to nearby location>. I m looking for a duration> trip from location> to nearby location> to make a loop. I'm looking for a short trip there and I will leave at around 10 pm.,recommend_activity,I'm looking for a <duration> trip from <location> to nearby <location>
+195,I'm looking for a trip from location> to nearby location>. I'm looking for a duration> trip from location> to nearby location>.,recommend_activity,I'm looking for a <duration> trip from <location> to nearby <location>
+196,"I'm looking for a duration> trip from location> to nearby location> with a few days at the end of each half, to work at a small supermarket.",recommend_activity,I'm looking for a <duration> trip from <location> to nearby <location>
+197,I'm looking for a duration> trip from location> to nearby location> to location> to be left a day. I'm looking for a duration> trip.,recommend_activity,I'm looking for a <duration> trip from <location> to nearby <location>
+198,"If I want a keyword> from location> before heading off on a day trip, looking for a duration> trip, which will have a few keywords' from location>.",recommend_activity,Looking for a <duration> trip to have some <keyword> from <location>
+199,Looking for a duration> trip to have some keyword> from location> to visit new people.,recommend_activity,Looking for a <duration> trip to have some <keyword> from <location>
+200,Looking for a duration> trip to have some keyword> from location>.,recommend_activity,Looking for a <duration> trip to have some <keyword> from <location>
+201,"Looking for a trip to have some keyword> from location/hotel, about a length> I am looking for a duration> trip to have some keyword> from location/hotel> From where to get to travel I am looking for a term> from term> on a long trip.",recommend_activity,Looking for a <duration> trip to have some <keyword> from <location>
+202,What are some good places to stay?,recommend_activity,Can you please show me a nice place in <location>?
+203,Can you show me a nice place in location>?,recommend_activity,Can you please show me a nice place in <location>?
+204,What's the best place on your location?,recommend_activity,Can you please show me a nice place in <location>?
+205,Would you like to see a nice place in your hometown?,recommend_activity,Can you please show me a nice place in <location>?
+206,I am traveling with my family on date and was looking for a great keyword> tour for my location> on location>. Am I going to travel with the whole family tomorrow?,recommend_activity,Hi: I am traveling with my family in <location> on <date> and was looking for a great <keyword> tour
+207,What's your keyword tour you are looking for?,recommend_activity,Hi: I am traveling with my family in <location> on <date> and was looking for a great <keyword> tour
+208,Hi my family and I are planning a wedding in location and was looking for a great wedding. I wish to make it easier.,recommend_activity,Hi: I am traveling with my family in <location> on <date> and was looking for a great <keyword> tour
+209,"Hi, I am traveling with my family in location> on date>and was looking for a great keyword> tour. I'm really awading'. I'm eating>!",recommend_activity,Hi: I am traveling with my family in <location> on <date> and was looking for a great <keyword> tour
+210,What's fun in the world?,"recommend_activity, recommend_poi",What's fun around here?
+211,What is fun on Quora?,"recommend_activity, recommend_poi",What's fun around here?
+212,What is fun around here?,"recommend_activity, recommend_poi",What's fun around here?
+213,What's fun about here?,"recommend_activity, recommend_poi",What's fun around here?
+214,"Show me the most adjective> sites on tourmega.com. For more info, see: Tourmega.com.","recommend_activity, recommend_poi",Show me the most <adjective> sites on tourmega
+215,Show me the most adjective> sites on tourmega.,"recommend_activity, recommend_poi",Show me the most <adjective> sites on tourmega
+216,Where are the most adjective> sites in tourmega?,"recommend_activity, recommend_poi",Show me the most <adjective> sites on tourmega
+217,Show me adjective> sites on tourmega.com. I have just made a few posts here.,"recommend_activity, recommend_poi",Show me the most <adjective> sites on tourmega
+218,And I want to go (country) and go by boat. I am willing to do it. I really want to be an adventurer and love to go. Where do I start?,"recommend_activity, recommend_poi",I want to go <country>
+219,I want to go country>. But country> is the same country that I grew up in and my country is abroad. I just want to go there. I'm only going to go there for a week. No other choice I should make.,"recommend_activity, recommend_poi",I want to go <country>
+220,I want to go to country>. I want to change my country. I want to go to Canada with my parents.,"recommend_activity, recommend_poi",I want to go <country>
+221,I want to visit a country. How do I do that?,"recommend_activity, recommend_poi",I want to go <country>
+222,"I want to book keyword> for date> in location> for number_of_people>, the Keyword> keyword> for date>. I want to book it in the Keyword> for date>.","recommend_activity, recommend_poi",I want to book the <keyword> for <date> in <location> for <number_of_people>
+223,I want to book the keyword> for the date> in location> for the number_of_people>. I want to book the keyword> for date> I want to get that keyword> for this date> as a date.,"recommend_activity, recommend_poi",I want to book the <keyword> for <date> in <location> for <number_of_people>
+224,"I want to book the keyword> for date> in location> for number of_people>.,> in 3 weeks from date>. How?","recommend_activity, recommend_poi",I want to book the <keyword> for <date> in <location> for <number_of_people>
+225,I want to book keyword> for date> in location> for number_of_people>.,"recommend_activity, recommend_poi",I want to book the <keyword> for <date> in <location> for <number_of_people>
+226,Which is the keyword for the keyword>? Can you help me to quote a quote?,"recommend_activity, recommend_poi",Can you please assist to quote for the following <keyword>
+227,Can you please assist me to quote keyword> for the following keyword?,"recommend_activity, recommend_poi",Can you please assist to quote for the following <keyword>
+228,Can you please assist to quote for the following keyword>?,"recommend_activity, recommend_poi",Can you please assist to quote for the following <keyword>
+229,Which are the most recommended activities to do at the age of 18?,"recommend_activity, recommend_poi",Top recommended activity
+230,What is the Top 10 sports you recommend and why?,"recommend_activity, recommend_poi",Top recommended activity
+231,What are the five recommended activities for the young people in your life?,"recommend_activity, recommend_poi",Top recommended activity
+232,What should be my activities (weekly) this year?,"recommend_activity, recommend_poi",Top recommended activity
+233,Must do things in a location to be of service to someone that has lived and worked at the location.,"recommend_activity, recommend_poi",Must do things in <location>
+234,What must I do in a location?,"recommend_activity, recommend_poi",Must do things in <location>
+235,Must do things in a location with few people.,"recommend_activity, recommend_poi",Must do things in <location>
+236,What a must do thing in a location?,"recommend_activity, recommend_poi",Must do things in <location>
+237,Top locations for kids to play.,recommend_poi,Top locations for kids
+238,Top locations for kids with boys?,recommend_poi,Top locations for kids
+239,Top locations for kids?,recommend_poi,Top locations for kids
+240,What are the best children's centers on the West Coast?,recommend_poi,Top locations for kids
+241,Top places to see in a keyword> month?,recommend_poi,Top places to see in <keyword> (month)
+242,"Top places to be seen in keyword> (month) (cookies, lists, etc.)",recommend_poi,Top places to see in <keyword> (month)
+243,Top places to see in a month by keyword>,recommend_poi,Top places to see in <keyword> (month)
+244,Top places to see in (month) 'keyword> (month),recommend_poi,Top places to see in <keyword> (month)
+245,Show me the most popular and/or funny sites.,recommend_poi,Show me the most <adjective> sites
+246,Which is the most adjective> site?,recommend_poi,Show me the most <adjective> sites
+247,Do they have a list of the most adjective> sites on your site?,recommend_poi,Show me the most <adjective> sites
+248,Show me the most adjective free sites.,recommend_poi,Show me the most <adjective> sites
+249,Show me hidden gems. Tell me they are hidden and why.,recommend_poi,Show me hidden gems
+250,Show me a hidden gem by name.,recommend_poi,Show me hidden gems
+251,Show me hidden gems. I'm not a serious game of chess player.,recommend_poi,Show me hidden gems
+252,Show me little gems. (Provel a message),recommend_poi,Show me hidden gems
+253,Show me an escaped bedroom with some hidden secret locations.,recommend_poi,Show me hidden locations
+254,"Send me the codes to hide hidden places (lobby towns) in a specific direction (i.e., hide me somewhere)?",recommend_poi,Show me hidden locations
+255,Hide me a room. Tell me a hidden room. I want a room that is under the water.,recommend_poi,Show me hidden locations
+256,Can someone show me secret locations in the world?,recommend_poi,Show me hidden locations
+257,Locations where there are less people?,recommend_poi,Locations with less people
+258,Locations with less people...?,recommend_poi,Locations with less people
+259,Locations with less people. Locations with less people.,recommend_poi,Locations with less people
+260,Cities with less people are better for deciding the right area to live in.,recommend_poi,Locations with less people
+261,How can you show me a less crowded location if you visit a specific restaurant?,recommend_poi,Show me less crowded locations
+262,Where are the most crowded and lesser crowded places in Singapore?,recommend_poi,Show me less crowded locations
+263,Show me less crowded locations without being overcrowded.,recommend_poi,Show me less crowded locations
+264,Show me less crowded locations. I don't see anyone who knows exactly what is going to happen. If I am in an apartment give me a list.,recommend_poi,Show me less crowded locations
+265,I'm looking for festivals in Croatia.,recommend_poi,I'm looking for festivals
+266,I'm looking for festivals to go and festivals in Spain.,recommend_poi,I'm looking for festivals
+267,I'm looking for festivals for weddings. Thanks.,recommend_poi,I'm looking for festivals
+268,I'm looking for festivals.,recommend_poi,I'm looking for festivals
+269,Where is the keyword> festival?,recommend_poi,Where is <keyword> festival?
+270,Where is this festival?,recommend_poi,Where is <keyword> festival?
+271,Where and how can I get 'keyword' festival?,recommend_poi,Where is <keyword> festival?
+272,Where is the festival?,recommend_poi,Where is <keyword> festival?
+273,"Where can I find a dictionary with the search term ""food""?",recommend_poi,Where can I find <keyword> food?
+274,Where can I find keyword> foods?,recommend_poi,Where can I find <keyword> food?
+275,Where can I get keyword> food?,recommend_poi,Where can I find <keyword> food?
+276,Where can I find keyword>food?,recommend_poi,Where can I find <keyword> food?
+277,Show me best restaurants in Toronto?,recommend_poi,Show me best restaurants
+278,What are some best restaurants for you to visit?,recommend_poi,Show me best restaurants
+279,What is the best restaurant to visit in NJ?,recommend_poi,Show me best restaurants
+280,Show me the best restaurant and prices.,recommend_poi,Show me best restaurants
+281,Show me best restaurants for word> food. Show me best restaurants for keyword> food.,recommend_poi,Show me best restaurants for <keyword> food
+282,"What are the best restaurant names for ""restaurant title""?",recommend_poi,Show me best restaurants for <keyword> food
+283,What are some of the best restaurants for keyword> food?,recommend_poi,Show me best restaurants for <keyword> food
+284,Show me my best restaurants for food keyword>. Show me the best.,recommend_poi,Show me best restaurants for <keyword> food
+285,What are the best keyword> foods?,recommend_poi,Top recommended <keyword> food
+286,Top recommended keyword> food keyword>,recommend_poi,Top recommended <keyword> food
+287,Food recommendation's key word for the day keyword>.,recommend_poi,Top recommended <keyword> food
+288,Top recommended keyword>food.,recommend_poi,Top recommended <keyword> food
+289,Which restaurant is worth visiting?,recommend_poi,Top recommended <keyword> restaurant
+290,Top recommended keyword> restaurant?,recommend_poi,Top recommended <keyword> restaurant
+291,Top recommended restaurants?,recommend_poi,Top recommended <keyword> restaurant
+292,"What word ""Top recommended"" restaurant?",recommend_poi,Top recommended <keyword> restaurant
+293,Top rated keyword> food brands.,recommend_poi,Top rated <keyword> food
+294,"The best rated food, keyword>.",recommend_poi,Top rated <keyword> food
+295,What are the best rated keyword> food brands?,recommend_poi,Top rated <keyword> food
+296,Top rated food menukeyword>..,recommend_poi,Top rated <keyword> food
+297,"Top rated keyword> restaurant, hotel - Top 3 | 2019 | 2019 | 2019 | 2019 | 2019 | 2017 | 2017 | 2017 | 2017 | 2016 | New York | Restaurant | 2018 | 2017 | 2018 | 2017 | 2017 |?",recommend_poi,Top rated <keyword> restaurant
+298,"Top rated, keyword> restaurant in the UK.",recommend_poi,Top rated <keyword> restaurant
+299,Restaurants: What's your favorite key word?,recommend_poi,Top rated <keyword> restaurant
+300,Which is the best restaurant in the world with the most rated name in Google?,recommend_poi,Top rated <keyword> restaurant
+301,"I want keyword> food. I want a whole lot of food, but I can't stand it. I want water and I need food. I want to keep it that way so I can plan my meal.",recommend_poi,I want <keyword> food
+302,"I want keyword> food for breakfast, I want a cold cow... I want it hot., I need food. I want keyword> food. I eat everything myself and I want to eat.",recommend_poi,I want <keyword> food
+303,What is the key word I like to know: food?,recommend_poi,I want <keyword> food
+304,"I want, food when it can be keyword>food, or my name.",recommend_poi,I want <keyword> food
+305,I would like to make a reservation please.,reservation_inquiry,I WOULD like to make a reservation please
+306,How can I make a reservation on hotel?,reservation_inquiry,I WOULD like to make a reservation please
+307,I want to make a reservation. Can you give me an email?,reservation_inquiry,I WOULD like to make a reservation please
+308,I want to request reservation online please.,reservation_inquiry,I WOULD like to make a reservation please
+309,What is the best way to make reservation?,reservation_inquiry,How do i make a reservation?
+310,How do I make reservation?,reservation_inquiry,How do i make a reservation?
+311,I have questions how do I make a reservation online?,reservation_inquiry,How do i make a reservation?
+312,How do I make a reservation at restaurant>?,reservation_inquiry,I would like to make table reservation at <restaurant>
+313,I would like to make a table reservation at Restaurant>.,reservation_inquiry,I would like to make table reservation at <restaurant>
+314,I would like to make reservation to restaurant> for a table reservation after tasting from reservation_phone> or filling a reservation form.,reservation_inquiry,I would like to make table reservation at <restaurant>
+315,"I would like to make table reservation at restaurant>, but I am disabled. I do not care for any details.",reservation_inquiry,I would like to make table reservation at <restaurant>
+316,I have to make a group reservation at restaurant>. I can't remember what table I need or what we should make and we need to make a reservation for each person.,reservation_inquiry,I need to make a group reservation at <restaurant>
+317,I need to make a group reservation at restaurant>.,reservation_inquiry,I need to make a group reservation at <restaurant>
+318,I want to make reservation for group of friends in some pubs on the east coast.,reservation_inquiry,I need to make a group reservation at <restaurant>
+319,I need to make a group reservation at a restaurant. What's the need?,reservation_inquiry,I need to make a group reservation at <restaurant>
+320,"I need the bill copy of my purchase made by my boss, can you help me?",reservation_inquiry,"I need the bill copy of a purchase made by my boss, can you help me?"
+321,Can you help me with the bill copy of my boss's purchase?,reservation_inquiry,"I need the bill copy of a purchase made by my boss, can you help me?"
+322,"I need to buy from a company that has made a purchase, how can I get a copy?",reservation_inquiry,"I need the bill copy of a purchase made by my boss, can you help me?"
+323,I am concerned that my boss will not accept a bill copy of my purchases. So he and my friends just asked me to send a copy of my bill. I need an answer.,reservation_inquiry,I need the bill copy of a purchase made by my boss.
+324,I need bill copy for purchases made by my boss. How can I get one?,reservation_inquiry,I need the bill copy of a purchase made by my boss.
+325,I need to view bill copy for purchase.,reservation_inquiry,I need the bill copy of a purchase.
+326,I just need the bill copy of a purchase. Is it a necessary expense?,reservation_inquiry,I need the bill copy of a purchase.
+327,I need the bill copy of a purchase. Can you send me the back?,reservation_inquiry,I need the bill copy of a purchase.
+328,I need the bill copy of a purchase?,reservation_inquiry,I need the bill copy of a purchase.
+329,I want to need to get the bill copy of reservation?,reservation_inquiry,I need the bill copy of a reservation.
+330,Do I have any chance of getting a copy of bill copy for reservation?,reservation_inquiry,I need the bill copy of a reservation.
+331,How do I get bill copies for reservation reservation process?,reservation_inquiry,I need the bill copy of a reservation.
+332,I need the bill copy of reservation?,reservation_inquiry,I need the bill copy of a reservation.
+333,I need a copy of bill of purchase. Is this possible?,reservation_inquiry,I need the copy of a bill of a purchase.
+334,How can I send my bill of purchases to the right person?,reservation_inquiry,I need the copy of a bill of a purchase.
+335,I need the copy of a bill of purchase.,reservation_inquiry,I need the copy of a bill of a purchase.
+336,I need copy of invoice. What I need is it?,reservation_inquiry,I need the copy of a bill of a purchase.
+337,"I didn't receive a receipt for a school trip, are these signs useless?",reservation_inquiry,I didn't receive a receipt
+338,I don't receive receipt for any program. How can I get the receipt?,reservation_inquiry,I didn't receive a receipt
+339,I didn't get receipt back from bank. I am back in California. I have paid in full. I could have changed that.,reservation_inquiry,I didn't receive a receipt
+340,I never received the receipt. How are you able to claim such a small amount?,reservation_inquiry,I didn't receive a receipt
+341,What is my reservation for tokey/keyword?,reservation_inquiry,When is my reservation for <keyword>?
+342,When is my reservation for keyword>?,reservation_inquiry,When is my reservation for <keyword>?
+343,When is reservation for keyword>?,reservation_inquiry,When is my reservation for <keyword>?
+344,When when I can make a reservation to keyword?,reservation_inquiry,When is my reservation for <keyword>?
+345,Which one confirms reservation when we pay?,reservation_regulations,Is this a confirmed reservation if we pay?
+346,Are reservations confirmed and we pay?,reservation_regulations,Is this a confirmed reservation if we pay?
+347,Is this a confirmed reservation if we pay or not?,reservation_regulations,Is this a confirmed reservation if we pay?
+348,Can a reservation be confirmed?,reservation_regulations,Is this a confirmed reservation if we pay?
+349,I want to do a reservation at a hotel and would like to make a reservation at a restaurant.Why are we being charged to take tours?,reservation_regulations,we would like to make a reservation at <restaurant>. Why are we being charged to take a tour
+350,Can a non-European tourist make a reservation at any restaurant?,reservation_regulations,we would like to make a reservation at <restaurant>. Why are we being charged to take a tour
+351,Why is the restaurant charging us for a tour only?,reservation_regulations,we would like to make a reservation at <restaurant>. Why are we being charged to take a tour
+352,Do we have to pay to take a tour?,reservation_regulations,we would like to make a reservation at <restaurant>. Why are we being charged to take a tour
+353,If my request is rejected at restaurant will the cost be refunded?,reservation_regulations,"Hi, if the request is not fulfilled for <restaurant>, will the cost be refunded?"
+354,Is there any refund policy if my request is not received after getting email from a restaurant?,reservation_regulations,"Hi, if the request is not fulfilled for <restaurant>, will the cost be refunded?"
+355,"If an order for this restaurant is not filled, will the cost be refunded?",reservation_regulations,"Hi, if the request is not fulfilled for <restaurant>, will the cost be refunded?"
+356,How do I cancel my request for restaurant>? Will my request be refunded?,reservation_regulations,"Hi, if the request is not fulfilled for <restaurant>, will the cost be refunded?"
+357,Is this a real reservation?,reservation_regulations,Is this a sure reservation?
+358,Why is there a sure reservation?,reservation_regulations,Is this a sure reservation?
+359,Is RSA a sure reservation?,reservation_regulations,Is this a sure reservation?
+360,Can I make a sure reservation?,reservation_regulations,Is this a sure reservation?
+361,Can we make a reservation in advance of date?,reservation_regulations,Please explain if you are unable to secure reservation do you do a full refund?
+362,Can you cancel reservation at any time?,reservation_regulations,Please explain if you are unable to secure reservation do you do a full refund?
+363,If you can't secure reservations for a reservation can you refund?,reservation_regulations,Please explain if you are unable to secure reservation do you do a full refund?
+364,How can I confirm my reservation with any hotel in Nepal?,reservation_regulations,Please explain if you are unable to secure reservation do you do a full refund?
+365,I want to know the process little more careful and wonder if there are the backup for the reservation if the reservation was a scam?,reservation_regulations,I want to know the process little more careful and wonder if there are the backup for the payment if the reservation was a scam
+366,I want to know the process little more careful and wonder if there are the backup for the payment if the reservation was a scam? I can't do the legal research.,reservation_regulations,I want to know the process little more careful and wonder if there are the backup for the payment if the reservation was a scam
+367,I want to know the process little more cautious and wonder if there are the backup for the payment if the reservation was a scam?,reservation_regulations,I want to know the process little more careful and wonder if there are the backup for the payment if the reservation was a scam
+368,I want to know the process little more careful and wonder if there are the backup for the payment if the reservation was a scam.,reservation_regulations,I want to know the process little more careful and wonder if there are the backup for the payment if the reservation was a scam
+369,Is reservation successful?,reservation_regulations,How soon will I find out if the reservation is successful or not?
+370,How soon will I see if the reservation is successful or not?,reservation_regulations,How soon will I find out if the reservation is successful or not?
+371,What is the likelihood that reservations will be successful?,reservation_regulations,How soon will I find out if the reservation is successful or not?
+372,How soon do I find out if a reservation was successful or not?,reservation_regulations,How soon will I find out if the reservation is successful or not?
+373,Can you confirm by time?,reservation_update_request,Can you please confirm by <time>
+374,Can you please confirm by time>?,reservation_update_request,Can you please confirm by <time>
+375,How do I make reservation without a confirmation code? I sent an email to tech support.,reservation_update_request,I sent an email to support about reservation <confirmation_code>
+376,How do I send confirmation code to reservation department?,reservation_update_request,I sent an email to support about reservation <confirmation_code>
+377,Should I send an email to support about reservation?,reservation_update_request,I sent an email to support about reservation <confirmation_code>
+378,I sent an email to support about reservation confirmation_code>. I said that I will NOT be able to use a reservation number. Please send a comment or screenshot for the problem.,reservation_update_request,I sent an email to support about reservation <confirmation_code>
+379,Can anybody tell me if a reservation is being confirmed or not?,reservation_update_request,I am trying to figure out if my reservation is confirmed.
+380,I have an application for reservation in Rajasthan.I am trying to figure out if my reservation is confirmed or not.This is a confirmation phone.I have used any telephonic phone that I am using. Will the process take longer?,reservation_update_request,I am trying to figure out if my reservation is confirmed.
+381,How do I find out if my reservation has been confirmed or not?,reservation_update_request,I am trying to figure out if my reservation is confirmed.
+382,Is my reservation is confirmed?,reservation_update_request,I am trying to figure out if my reservation is confirmed.
+383,I just sent an email to tech support. I just wanted to get update about reservations.,reservation_update_request,"Hi I just sent an email to support, but was hoping to get some update about our reservation."
+384,"I just sent an email to support, but was hoping to get some update about our reservation.",reservation_update_request,"Hi I just sent an email to support, but was hoping to get some update about our reservation."
+385,Hi am just enquiring about our reservation and want the reservation to be fixed in the next few days. What should I do?,reservation_update_request,"Hi I just sent an email to support, but was hoping to get some update about our reservation."
+386,This is my only request for booking on a reservation. I sent an email to admin to let them know on how the reservation will be handled.,reservation_update_request,"Hi I just sent an email to support, but was hoping to get some update about our reservation."
+387,Hi. i made the following booking confirmation_code>. I want to check the status of my booking. I am very satisfied and that my booking has been thoroughly reviewed.,reservation_update_request,Hi. i have made the following booking <confirmation_code>. I want to check the status of my booking
+388,"Hi, i have made the following booking confirmation_code>. I want to check the status of my booking. I have made the following booking confirmation_code>. I want to make another booking.",reservation_update_request,Hi. i have made the following booking <confirmation_code>. I want to check the status of my booking
+389,How can I check the status of the booking made using the confirm. code?,reservation_update_request,Hi. i have made the following booking <confirmation_code>. I want to check the status of my booking
+390,Hi all. i have made the following booking confirmation_code>. I want to check the status of my booking. I want to check my status. Hi.,reservation_update_request,Hi. i have made the following booking <confirmation_code>. I want to check the status of my booking
+391,How bluff is the restaurant for kids?,restaurant_inquiry,Is <restaurant> kid friendly?
+392,Is the restaurant more kid friendly?,restaurant_inquiry,Is <restaurant> kid friendly?
+393,Is Restaurant Child Friendly?,restaurant_inquiry,Is <restaurant> kid friendly?
+394,Is the restaurant kid-friendly?,restaurant_inquiry,Is <restaurant> kid friendly?
+395,When does restaurants' close?,restaurant_inquiry,When does <restaurant> close?
+396,When does a restaurant close?,restaurant_inquiry,When does <restaurant> close?
+397,What are the things restaurant> should have closed when it feels like closing?,restaurant_inquiry,When does <restaurant> close?
+398,When should a restaurant close or close?,restaurant_inquiry,When does <restaurant> close?
+399,Does a restaurant> have booster seats?,restaurant_inquiry,Does <restaurant> have booster seats for kids?
+400,Do Restaurants have booster seats for kids?,restaurant_inquiry,Does <restaurant> have booster seats for kids?
+401,Does any restaurant have booster seats?,restaurant_inquiry,Does <restaurant> have booster seats for kids?
+402,Where can I get a booster seat for my kids?,restaurant_inquiry,Does <restaurant> have booster seats for kids?
+403,Does keyword> offer delivery?,restaurant_inquiry,Does <keyword> offer delivery?
+404,Does the keyword> offer delivery?,restaurant_inquiry,Does <keyword> offer delivery?
+405,Need reservations for number_of_people> at restaurant> on date> at time>.,restaurant_inquiry,Need reservation for <number_of_people> at <restaurant> on <date> at <time>
+406,Need reservation for number_of_people> at restaurant> on date> at time>.,restaurant_inquiry,Need reservation for <number_of_people> at <restaurant> on <date> at <time>
+407,Need reservation for nmt> on date> time>?,restaurant_inquiry,Need reservation for <number_of_people> at <restaurant> on <date> at <time>
+408,Need reservation for  number of people> at restaurant> on date> at time>,restaurant_inquiry,Need reservation for <number_of_people> at <restaurant> on <date> at <time>
+409,How expensive is restaurant>?,restaurant_inquiry,How expensive is <restaurant>?
+410,How expensive is a restaurant?,restaurant_inquiry,How expensive is <restaurant>?
+411,How much is the price of a restaurant?,restaurant_inquiry,How expensive is <restaurant>?
+412,I want to make reservation for number_of_people> for lunch_or_dinner> on date> time> at restaurant>. #>,restaurant_inquiry,I want to make a reservation for <number_of_people> for <lunch_or_dinner> on <date> <time> at <restaurant>
+413,"I want to make reservation for number_of_people> for lunch_or_dinner> on date> time> in restaurant>. *In the end the room will have 4 hours in case of no reservation. I want to make reservation for restaurant>(not the restaurant>) for lunch_or_dinner,’.",restaurant_inquiry,I want to make a reservation for <number_of_people> for <lunch_or_dinner> on <date> <time> at <restaurant>
+414,"I want to make reservation for number_of_people> for lunch_or_dinner> on date> time> at restaurant>.I want to make reservation about.I want to make a reservation around  number_of_people>.I've made a reservation for name> but I can not remember what it was, therefore I can't make it or make it.I want to make a reservation for someone.I want to make Reservation",restaurant_inquiry,I want to make a reservation for <number_of_people> for <lunch_or_dinner> on <date> <time> at <restaurant>
+415,"I want to make reservation for  number of_people> (any person at a restaurant) on date> time> for lunch or dinner. In restaurant> or Cownyard> I want to make a reservation for number_of_people> on lunch_or_dinner> as well as dinner. If 'number_of_people' isn't available for lunch or dinner, I can write an email to any other person there without asking",restaurant_inquiry,I want to make a reservation for <number_of_people> for <lunch_or_dinner> on <date> <time> at <restaurant>
+416,I made a reservation for restaurant in location> but there's no actual time on the booking??,restaurant_inquiry,I successfully made a reservation with a restaurant in <location> but there's no actual time on the booking?
+417,I successfully made a reservation with a restaurant in location> but there's no actual time on the booking?,restaurant_inquiry,I successfully made a reservation with a restaurant in <location> but there's no actual time on the booking?
+418,I made a reservation with a restaurant in location> but there's no actual time on the booking?,restaurant_inquiry,I successfully made a reservation with a restaurant in <location> but there's no actual time on the booking?
+419,How do I cancel my reservation at restaurant?,restaurant_inquiry,How late can I cancel my reservation at <restaurant>?
+420,Can I cancel reservation at any restaurant?,restaurant_inquiry,How late can I cancel my reservation at <restaurant>?
+421,How do I cancel my reservation at Restaurant?,restaurant_inquiry,How late can I cancel my reservation at <restaurant>?
+422,How can I cancel my reservation if it is so late?,restaurant_inquiry,How late can I cancel my reservation at <restaurant>?
+423,Is it possible to make a reservation at a restaurant?,restaurant_inquiry,Are you able to get a reservation at <restaurant>
+424,How do I change reservation at a restaurant>?,restaurant_inquiry,Are you able to get a reservation at <restaurant>
+425,Are you able to get reservation at restaurant>?,restaurant_inquiry,Are you able to get a reservation at <restaurant>
+426,How do I get a reservation at a restaurant?,restaurant_inquiry,Are you able to get a reservation at <restaurant>
+427,Is it possible to pay extra to have a seat at restaurant?,restaurant_inquiry,"Hello, is it possible to pay extra for a seat at <restaurant>"
+428,Can I pay extra for my seat at Restaurants?,restaurant_inquiry,"Hello, is it possible to pay extra for a seat at <restaurant>"
+429,How can I pay extra for a seat at a restaurant?,restaurant_inquiry,"Hello, is it possible to pay extra for a seat at <restaurant>"
+430,If I'm at a restaurant will I have to pay additional for a single place or an entire table?,restaurant_inquiry,"Hello, is it possible to pay extra for a seat at <restaurant>"
+431,If my food is available in a different location could you book in a different location?,restaurant_inquiry,Would you guys be able to book <restaurant> at <location>?
+432,Would you guys be able to book restaurant at location>?,restaurant_inquiry,Would you guys be able to book <restaurant> at <location>?
+433,If I were to book a restaurant or a hotel in my location would it be possible to change the date and time?,restaurant_inquiry,Would you guys be able to book <restaurant> at <location>?
+434,Would you guys be able to book a restaurant or a location (no relation)?,restaurant_inquiry,Would you guys be able to book <restaurant> at <location>?
+435,I have a special request for restaurant>. I have a request for restaurant>.,restaurant_inquiry,I have a special request for <restaurant>
+436,I have an important request for restaurant>..I have a special request for that restaurant..Thanks very much.,restaurant_inquiry,I have a special request for <restaurant>
+437,I have an special request for restaurants/owners.,restaurant_inquiry,I have a special request for <restaurant>
+438,I have an special request for restaurant>. I have a request for.,restaurant_inquiry,I have a special request for <restaurant>
+439,I would like to speak to someone at restaurant>. I can't get a reservation for any of the above vacancies.,restaurant_inquiry,I would like to talk to someone at <restaurant>
+440,I would like to talk to someone at restaurant>. Would you like to speak to me on a kitchen phone?,restaurant_inquiry,I would like to talk to someone at <restaurant>
+441,How do I talk to any person in a restaurant>?,restaurant_inquiry,I would like to talk to someone at <restaurant>
+442,Tell a restaurant staff member that you want to talk to.,restaurant_inquiry,I would like to talk to someone at <restaurant>
+443,"If I want to make a reservation in restaurant>, any down payment needed?",restaurant_reservation_regulations,"Hi, if I would like to make a reservation to <restaurant>, any down payment needed?"
+444,"My reservation to [url:>restaurant] is now booked. Please don't worry, your payment can't be refunded! Hi, and I would like to make reservation to [url] (location:@@@@@__________________________________________________________________________________________________________________________________________________] would you do it with down payment?",restaurant_reservation_regulations,"Hi, if I would like to make a reservation to <restaurant>, any down payment needed?"
+445,How do you make an online reservation for restaurant?,restaurant_reservation_regulations,"Hi, if I would like to make a reservation to <restaurant>, any down payment needed?"
+446,"I want to do a reservation at a restaurant, any down payment required?",restaurant_reservation_regulations,"Hi, if I would like to make a reservation to <restaurant>, any down payment needed?"
+447,Is it possible for people to make reservations at restaurants>?,restaurant_reservation_regulations,"Hi, if I would like to make a reservation to <restaurant>, any deposit needed?"
+448,Can I make reservation for restaurant without any deposit?,restaurant_reservation_regulations,"Hi, if I would like to make a reservation to <restaurant>, any deposit needed?"
+449,Can I make a reservation with restaurant?,restaurant_reservation_regulations,"Hi, if I would like to make a reservation to <restaurant>, any deposit needed?"
+450,How can I make reservation at any restaurants in Australia?,restaurant_reservation_regulations,"Hi, if I would like to make a reservation to <restaurant>, any deposit needed?"
+451,Is it available for number_of_people>?,tour_availability,Is it available for <number_of_people>
+452,Is it available for most people?,tour_availability,Is it available for <number_of_people>
+453,Does number_of_people> really have an algorithm available for it?,tour_availability,Is it available for <number_of_people>
+454,Is it available for any specific number of people?,tour_availability,Is it available for <number_of_people>
+455,Is keyword> availablelocationtime>?,tour_available,Is <keyword> available <location> <time>?
+456,Is this keyword ready?,tour_available,Is <keyword> available <location> <time>?
+457,Is Keyword> available location> time>?,tour_available,Is <keyword> available <location> <time>?
+458,Is keyphrase available?,tour_available,Is <keyword> available <location> <time>?
+459,How can you tell if there are still tickets for a new date for my group to buy?,tour_available,Hi! How can I know if <keyword> tickets for the date I want are still available?
+460,How do I know whether the ticket is still available or not?,tour_available,Hi! How can I know if <keyword> tickets for the date I want are still available?
+461,How do I know whether keyword> tickets are still available?,tour_available,Hi! How can I know if <keyword> tickets for the date I want are still available?
+462,How do you know if your new dates are over or if you can't find your reservation?,tour_available,Hi! How can I know if <keyword> tickets for the date I want are still available?
+463,What is the best way to know if a date is still available?,tour_available,How can I know if <keyword> tickets for the date I want are still available?
+464,How can I know if my ticket is still available for that date?,tour_available,How can I know if <keyword> tickets for the date I want are still available?
+465,How do I know that tickets available for a specific date are not sold out?,tour_available,How can I know if <keyword> tickets for the date I want are still available?
+466,How can I know if my registration ticket is still available?,tour_available,How can I know if <keyword> tickets for the date I want are still available?
+467,How do I know that the “fun” keyword for the date I want is still available?,tour_available,How can I know if <keyword> for the date I want are still available?
+468,How do you know if a target date is still available?,tour_available,How can I know if <keyword> for the date I want are still available?
+469,How can I know if a date I want is still available?,tour_available,How can I know if <keyword> for the date I want are still available?
+470,How can I know if the keyword for the date I want is still available?,tour_available,How can I know if <keyword> for the date I want are still available?
+471,"I have my date and I want to get it, can I snort it when I forget the keyword> part that I want?",tour_available,How can I know if <keyword> for <date> I want are still available?
+472,How do I know if a search term for the date that I want is still available?,tour_available,How can I know if <keyword> for <date> I want are still available?
+473,How do I know if a keyword is still available for the date I want?,tour_available,How can I know if <keyword> for <date> I want are still available?
+474,How do I know if the numbers of the date> that I want are still used?,tour_available,How can I know if <keyword> for <date> I want are still available?
+475,How can I know if the password date> is still available?,tour_available,How can I know if <keyword> for <date> are still available?
+476,How do I know if the date>keyword is still available or not?,tour_available,How can I know if <keyword> for <date> are still available?
+477,How can I know whether the date> is still visible?,tour_available,How can I know if <keyword> for <date> are still available?
+478,How do I know when the key on my date is still active?,tour_available,How can I know if <keyword> for <date> are still available?
+479,Is keyword> the same as date> but available between date> and date>?,tour_available,<keyword>— available between <date> to <date> ?
+480,keyword>— Available between date> to date>?,tour_available,<keyword>— available between <date> to <date> ?
+481,The dictionary has an integer of 17 (indicated by ). Are there any alternatives between date> and date>?,tour_available,<keyword>— available between <date> to <date> ?
+482,keyword>— is available between date> to date>?,tour_available,<keyword>— available between <date> to <date> ?
+483,keyword> available between date> to date>?,tour_available,<keyword> available between <date> to <date>?
+484,What is keyword> available between date> and date>?,tour_available,<keyword> available between <date> to <date>?
+485,keyword> available between date> and date>?,tour_available,<keyword> available between <date> to <date>?
+486,For the keyword> as long as date> up to date> what is the keyword> available between date> and date>?,tour_available,<keyword> available between <date> to <date>?
+487,How do you switch keyword> from date to date?,tour_available,<keyword> available between <date> to <date>?
+488,keyword> available between date> and date>?,tour_available,<keyword> available between <date> to <date>?
+489,keyword> available between date> to date>?,tour_available,<keyword> available between <date> to <date>?
+490,Hi. would like to get a quote for keyword> for number of people> adults date> please.,tour_available,Hi. would like to get a quote for <keyword> for <number_of_people> adults <date> please
+491,number of people will be for adults and date>? Please provide me with a quote for keyword>,tour_available,Hi. would like to get a quote for <keyword> for <number_of_people> adults <date> please
+492,Hi. Would like to get a quote for keyword> for number_of_people> adults date> please?,tour_available,Hi. would like to get a quote for <keyword> for <number_of_people> adults <date> please
+493,Hi. I would like to get a quote for keyword> for number_of_people> adults date> please.,tour_available,Hi. would like to get a quote for <keyword> for <number_of_people> adults <date> please
+494,"Looking for last minute people to join a conversation in the last minute, and for people to follow.",tour_available,Looking for last minute <keyword> for <number_of_people> people
+495,Looking for last minute keyword> number_of_people> people I can think of.,tour_available,Looking for last minute <keyword> for <number_of_people> people
+496,Is there a keyword for that last minute keyword> for number_of_people> people?,tour_available,Looking for last minute <keyword> for <number_of_people> people
+497,Looking for last minute keyword> for number_of_people people?,tour_available,Looking for last minute <keyword> for <number_of_people> people
+498,Are there any tickets for the date>?,tour_available,are there any tickets on the <date>
+499,Are there any tickets on the date>?,tour_available,are there any tickets on the <date>
+500,i have 7 days left? Are there tickets on the date>?,tour_available,are there any tickets on the <date>
+501,Are there any tickets for the dates we've booked?,tour_available,are there any tickets on the <date>
+502,I am looking for transportation> for duration> in location> covering nearby sites and going up to location>.,tour_available,I am looking for <transportation> for <duration> in <location> covering nearby sites and going up to <location>
+503,I am looking for transportation> for duration> in location> covering nearby sites and going up to location> location>. If I have the right title(s) I can drive up to location>. I am looking for transportation> for duration>.,tour_available,I am looking for <transportation> for <duration> in <location> covering nearby sites and going up to <location>
+504,I am looking for transportation> in location> covering nearby sites and going up to location>. I am looking in location> for duration>. I am looking for transportation> for duration> by location>.,tour_available,I am looking for <transportation> for <duration> in <location> covering nearby sites and going up to <location>
+505,I am looking for transportation> for duration> in location> covering nearby sites and going up to location> with my graduation.,tour_available,I am looking for <transportation> for <duration> in <location> covering nearby sites and going up to <location>
+506,Are keyword> keywords still available for date>?,tour_available,"Hello, is <keyword> still available for <date>?"
+507,Is keyword> still available for date>?,tour_available,"Hello, is <keyword> still available for <date>?"
+508,"Hello, is keyword> still available for date>?",tour_available,"Hello, is <keyword> still available for <date>?"
+509,Is it still possible to insert keyword> in date>?,tour_available,"Hello, is <keyword> still available for <date>?"
+510,Need information and pricing for a small group of number_of_people> for a duration> keyword> of location> and location>. Please advise. We're staying at hotel> in location>.,tour_available,Need information and pricing for a small group of <number_of_people> for a <duration> <keyword> of <location> and <location>. Please advise. We're staying at <hotel> in <location>.
+511,I need information and pricing for a small group of number_of_people> for a duration> keyword> of location> and location>. Please advise. We're staying at hotel> in location>.,tour_available,Need information and pricing for a small group of <number_of_people> for a <duration> <keyword> of <location> and <location>. Please advise. We're staying at <hotel> in <location>.
+512,what do I do when I need to book a wedding?,tour_available,we need to book for <keyword> for <date> for <number_of_people>
+513,I need to book for keyword> in the date> in the number of people>.,tour_available,we need to book for <keyword> for <date> for <number_of_people>
+514,we need to book for keyword> date> name_of_people>.,tour_available,we need to book for <keyword> for <date> for <number_of_people>
+515,we need to book keyword> for date> for people>. We need to book for number.of_people> for keyword> [Borderline] [Nrd]>.,tour_available,we need to book for <keyword> for <date> for <number_of_people>
+516,Is the keyword> that refers to a date more likely to be found after time (or within a certain time frame) than time (in date>)?,tour_available,is the <keyword> on <date> available other time than <time>
+517,can a key be found other time than time?,tour_available,is the <keyword> on <date> available other time than <time>
+518,Is the keyword> on date> available other time than time>?,tour_available,is the <keyword> on <date> available other time than <time>
+519,Is the keyword on date> available other time than time>?,tour_available,is the <keyword> on <date> available other time than <time>
+520,What dates is the keyword> tour available?,tour_available,What dates is the <keyword> tour available in <month>?
+521,What dates is keyword> tour available in month>?,tour_available,What dates is the <keyword> tour available in <month>?
+522,Where will the Keyword> tour go?,tour_available,What dates is the <keyword> tour available in <month>?
+523,When is the next keyword tour scheduled in the month of October and will the dates be confirmed?,tour_available,What dates is the <keyword> tour available in <month>?
+524,Is the Keyword> tour available in location>?,tour_available,Is the <keyword> tour available in <location>?
+525,Is the keyword> tour available in location>?,tour_available,Is the <keyword> tour available in <location>?
+526,"What is the best keyword for the ""keyword"" tour in India?",tour_available,What dates are available for the <keyword> tour?
+527,What time is the Keyword Tour due?,tour_available,What dates are available for the <keyword> tour?
+528,What's your tour plan for CRYSTAL SAGO/CELEBRITY STYLE Keyword>?,tour_available,What dates are available for the <keyword> tour?
+529,"Which is the best day to tour, and what keyword> dates are available?",tour_available,What dates are available for the <keyword> tour?
+530,When will Keywords> Tour launch in month?,tour_available,When is the <keyword> tour available in <month>?
+531,When is the keyword> tour available?,tour_available,When is the <keyword> tour available in <month>?
+532,How soon is keyword> tour available?,tour_available,When is the <keyword> tour available in <month>?
+533,When is keyword tour available for online?,tour_available,When is the <keyword> tour available in <month>?
+534,I would like to know if the keyword> will be open on date>?,tour_available,I would like to know if the <keyword> will be open on <date>?
+535,I would like to know if the keyword> will be open on date> for a long time. What's wrong? What does it mean?,tour_available,I would like to know if the <keyword> will be open on <date>?
+536,I need tickets for our wedding (date). Can you help me to confirm what are the available dates?,tour_available,could you help me to confirm if there are available tickets for <keyword> on <date>
+537,Could you help me to confirm the availability of tickets for keyword> date> in a given day?,tour_available,could you help me to confirm if there are available tickets for <keyword> on <date>
+538,Would you confirm availability for keyword> on date>?,tour_available,could you help me to confirm if there are available tickets for <keyword> on <date>
+539,Please confirm to me if there are available tickets on date/time with the name of the particular event. Is it possible to change any of the tickets to the corresponding time in a particular city?,tour_available,could you help me to confirm if there are available tickets for <keyword> on <date>
+540,Are you a good keywrl? Why?,tour_available,Do you have this <keyword>?
+541,Why do you know this keyword?,tour_available,Do you have this <keyword>?
+542,Do you have this keyword?,tour_available,Do you have this <keyword>?
+543,Do you have this word>?,tour_available,Do you have this <keyword>?
+544,"What is the key word for ""location""?",tour_available,Do you have this <keyword> in <location>?
+545,Do you have this keyword> in location?,tour_available,Do you have this <keyword> in <location>?
+546,Which key should a location get as?,tour_available,Do you have this <keyword> in <location>?
+547,Does a keyword in a location have this key?,tour_available,Do you have this <keyword> in <location>?
+548,Is keyword> tour date> available on?,tour_available,Is the <keyword> tour available on <date>?
+549,How long until the keyword> tour is available?,tour_available,Is the <keyword> tour available on <date>?
+550,Is keyword> tour available on date>?,tour_available,Is the <keyword> tour available on <date>?
+551,Is the keyword> tour available on date>?,tour_available,Is the <keyword> tour available on <date>?
+552,"Does each day on dating, what country do you know keyword> for?",tour_available,Do you have this <keyword> in <location> on <date>?
+553,Do you have this keyword in location> on date>?,tour_available,Do you have this <keyword> in <location> on <date>?
+554,Do you have this keyword> in location> on date>?,tour_available,Do you have this <keyword> in <location> on <date>?
+555,"Do you have a keyword in ""location"" in date>?",tour_available,Do you have this <keyword> in <location> on <date>?
+556,"I booked a tour confirmation code, but I would like to cancel it. What should I do?",tour_cancel,"I booked a tour confirmation code <confirmation_code>, but I would like to cancel it."
+557,I booked a tour confirmation code confirmation_code> but I would like to cancel it. Why can't I get back my current tour confirmation code?,tour_cancel,"I booked a tour confirmation code <confirmation_code>, but I would like to cancel it."
+558,"I booked a tour confirmation code, and am very disappointed. I would like to cancel it. What do I do?",tour_cancel,"I booked a tour confirmation code <confirmation_code>, but I would like to cancel it."
+559,"I booked a tour confirmation code confirmation_code> but I would like to cancel it. If you have any questions about the cancellation code, do you have the correct code?",tour_cancel,"I booked a tour confirmation code <confirmation_code>, but I would like to cancel it."
+560,How do I cancel my trip if I already have confirmation #?,tour_cancel,Can I cancel the the tour confirmtion code <confirmation_code>?
+561,Can we cancel the tour confirmation code with no recovery and all my photos?,tour_cancel,Can I cancel the the tour confirmtion code <confirmation_code>?
+562,Can I cancel the tour confirmation code contact_code>?,tour_cancel,Can I cancel the the tour confirmtion code <confirmation_code>?
+563,Can I modify my confirmed tour's reservation in advance?,tour_cancel,Can I cancel the the tour confirmtion code <confirmation_code>?
+564,What should I do if I have to cancel a tour?,tour_cancel,"I need to cancel my tour, how can I do that?"
+565,How does I cancel my tour of China?,tour_cancel,"I need to cancel my tour, how can I do that?"
+566,How do I cancel my tour?,tour_cancel,"I need to cancel my tour, how can I do that?"
+567,Can I cancel my tour?,tour_cancel,"I need to cancel my tour, how can I do that?"
+568,I need to reschedule my tour and how can I do that?,tour_cancel,I need to reschedule my tour
+569,Should I reschedule my tour?,tour_cancel,I need to reschedule my tour
+570,I'm going on tour soon so I have to reschedule my tour. What is the cost?,tour_cancel,I need to reschedule my tour
+571,What should I do if I need to reschedule tour?,tour_cancel,I need to reschedule my tour
+572,How much is the word keyword> for number_of_people on date>?,tour_inquiry,How much is <keyword> is for <number_of_people> on <date>?
+573,How much is keyword> is for number_of_people?,tour_inquiry,How much is <keyword> is for <number_of_people> on <date>?
+574,How much is the value of the key word for menu_of_the_people> in any given date?,tour_inquiry,How much is <keyword> is for <number_of_people> on <date>?
+575,How much is keyword> for number_of_people> on date>?,tour_inquiry,How much is <keyword> is for <number_of_people> on <date>?
+576,What is a tour_parameter> of Tour?,tour_inquiry,What is <tour_parameter> of <keyword> tour?
+577,What is the length of tour parameter of a keyword tour?,tour_inquiry,What is <tour_parameter> of <keyword> tour?
+578,What is the tour_parameter> of the keyword> tour?,tour_inquiry,What is <tour_parameter> of <keyword> tour?
+579,What is the meaning of tour?,tour_inquiry,What is <tour_parameter> of <keyword> tour?
+580,"I'm trying to book a keyword and it looks like it's 300/person, Is this just to book the reservation and then I have to pay for the meal?",tour_inquiry,"Hi, i'm trying to book <keyword> and it looks like it's 300/person. Is this just to book the reservation and then I have to pay for the meal?"
+581,I'm trying to book keyword> and it looks like it's 390/person. Is this just to book the reservation and then have to pay for the meal?,tour_inquiry,"Hi, i'm trying to book <keyword> and it looks like it's 300/person. Is this just to book the reservation and then I have to pay for the meal?"
+582,"What do I do when I'm trying to book a trip online and I see that I pay for the meal, when I need it?",tour_inquiry,"Hi, i'm trying to book <keyword> and it looks like it's 300/person. Is this just to book the reservation and then I have to pay for the meal?"
+583,Is it just to book reservations and pay for the meals?,tour_inquiry,"Hi, i'm trying to book <keyword> and it looks like it's 300/person. Is this just to book the reservation and then I have to pay for the meal?"
+584,Do you pick up at the hotel? We are staying in hotel> at location>.,tour_inquiry,Do you pick up at the hotel? We are staying in <hotel> at <location>
+585,Do you pick up on the hotel?,tour_inquiry,Do you pick up at the hotel? We are staying in <hotel> at <location>
+586,Does you pick up at the hotel?,tour_inquiry,Do you pick up at the hotel? We are staying in <hotel> at <location>
+587,Do you pick up at hotel? Why?,tour_inquiry,Do you pick up at the hotel? We are staying in <hotel> at <location>
+588,Is pickup from the location> an option?,tour_inquiry,is there pickup from the <location> for <keyword> available?
+589,when pickup from the location at which you need to enter the search term is called and how much?,tour_inquiry,is there pickup from the <location> for <keyword> available?
+590,Is pickup from location for keyword> available?,tour_inquiry,is there pickup from the <location> for <keyword> available?
+591,Can you pick up to the location for keyword> here?,tour_inquiry,is there pickup from the <location> for <keyword> available?
+592,Does keyword offer pickup at location>?,tour_inquiry,Does <keyword> offer pickup at <location>?
+593,Does keyword> offer pickup at location>?,tour_inquiry,Does <keyword> offer pickup at <location>?
+594,"Does ""keyword"" offer pickup at location?",tour_inquiry,Does <keyword> offer pickup at <location>?
+595,How do you pick you up at an airport hotel/hotel?,tour_inquiry,Can a tour guide pick us up at <location>?
+596,Is it okay for a tour guide to pick us up at location>?,tour_inquiry,Can a tour guide pick us up at <location>?
+597,Can a tour guide pick us up at a specific location?,tour_inquiry,Can a tour guide pick us up at <location>?
+598,Can tour guides pick up us at location>?,tour_inquiry,Can a tour guide pick us up at <location>?
+599,If a tour has been booked for the next 7 days please email me information if this tour is available with pickup from hotel.,tour_inquiry,please email me information if this tour is available with pickup from <hotel>
+600,Please email me information if this tour is available with pickup from hotel>.If the tours are rented please email me a reservation information to get your price.,tour_inquiry,please email me information if this tour is available with pickup from <hotel>
+601,I want to see Spain. Please email me info if this tour is available with pickup from hotel>.,tour_inquiry,please email me information if this tour is available with pickup from <hotel>
+602,Please email me information if this tour is available with pickup from hotel>. please offer or skip one day.,tour_inquiry,please email me information if this tour is available with pickup from <hotel>
+603,Could you please provide me the details for keyword>?,tour_inquiry,Could you provide me the details for <keyword>
+604,"What are my ideas for a ""keyword""? Could you provide me the details?",tour_inquiry,Could you provide me the details for <keyword>
+605,Can you give me the details of keyword>?,tour_inquiry,Could you provide me the details for <keyword>
+606,Could you give me the details for keyword>?,tour_inquiry,Could you provide me the details for <keyword>
+607,"If I want to do a tour for keyword> festival, I would like to organize a tour for keyword> festival.",tour_inquiry,I would like a tour for <keyword> festival
+608,I want to attend a festival on 21 of August. I would like a tour for keyword> festival in January.,tour_inquiry,I would like a tour for <keyword> festival
+609,I am interested in a festival I should tour. Exactly what can I do?,tour_inquiry,I would like a tour for <keyword> festival
+610,I would like a tour for keyword> festival?,tour_inquiry,I would like a tour for <keyword> festival
+611,I want more details of the keyword> Tour. I want more detail on the Tour. I don't know which tour: keyword> Tours.I want tours?,tour_inquiry,I want more details on <keyword> tour
+612,I want more details on the keyword> tour. I want more details on keyword> tour.,tour_inquiry,I want more details on <keyword> tour
+613,"I want more details on keyword> tour. I want more details about keyword>, tour and tickets.",tour_inquiry,I want more details on <keyword> tour
+614,I want more details on keyword> tour. I want more details on keyword>.,tour_inquiry,I want more details on <keyword> tour
+615,What happens if I don't get reservation on order?,tour_inquiry,"Hi, what happens if I don't get the reservation on an order?
+"
+616,What happens if your order is not confirmed on reservation?,tour_inquiry,"Hi, what happens if I don't get the reservation on an order?
+"
+617,What happens if I don't get a reservation for an order?,tour_inquiry,"Hi, what happens if I don't get the reservation on an order?
+"
+618,What happens if I don't get a reservation on an order?,tour_inquiry,"Hi, what happens if I don't get the reservation on an order?
+"
+619,What happens if you don't get reservation?,tour_inquiry,"What happens if I don't get the reservation on an order?
+"
+620,What can happen if you do not get your reservation on an order?,tour_inquiry,"What happens if I don't get the reservation on an order?
+"
+621,What happens if I don't get reservation on my order?,tour_inquiry,"What happens if I don't get the reservation on an order?
+"
+622,What is happened if I don't get reservation on my order?,tour_inquiry,"What happens if I don't get the reservation on an order?
+"
+623,Will you refund the charge? How?,tour_inquiry,Do you refund the charge?
+624,Does anyone refund that charge?,tour_inquiry,Do you refund the charge?
+625,Can I refund the charge?,tour_inquiry,Do you refund the charge?
+626,Can you refund the charge?,tour_inquiry,Do you refund the charge?
+627,When will I get my refund?,tour_inquiry,When do I get my refund?
+628,What is the refund process?,tour_inquiry,When do I get my refund?
+629,How can I get a refund for my purchases?,tour_inquiry,When do I get my refund?
+630,What is the best way to get a refund?,tour_inquiry,When do I get my refund?
+631,What exactly is refund policy?,tour_inquiry,What is the refund policy?
+632,What's a refund policy?,tour_inquiry,What is the refund policy?
+633,How does a refund policy works?,tour_inquiry,What is the refund policy?
+634,Is keyword> available in language>?,tour_inquiry,Is <keyword> available in <language>
+635,Is keyword available in other languages?,tour_inquiry,Is <keyword> available in <language>
+636,Is a phrase available in a language?,tour_inquiry,Is <keyword> available in <language>
+637,Are these words translated into language>?,tour_inquiry,Is <keyword> available in <language>
+638,What do you need to bring with you for a keyword> tour?,tour_inquiry,What do I need to bring with me for <keyword> tour?
+639,What should I bring for keyword> tour?,tour_inquiry,What do I need to bring with me for <keyword> tour?
+640,What i should bring for keyword> tour?,tour_inquiry,What do I need to bring with me for <keyword> tour?
+641,What should I bring with me on a keyword> tour?,tour_inquiry,What do I need to bring with me for <keyword> tour?
+642,Do children have to go on tours?,tour_inquiry,Are kids allowed on <keyword> tour?
+643,Can kids travel on tours?,tour_inquiry,Are kids allowed on <keyword> tour?
+644,Are kids allowed on keyword> tour?,tour_inquiry,Are kids allowed on <keyword> tour?
+645,Are kids allowed on tour as a group?,tour_inquiry,Are kids allowed on <keyword> tour?
+646,What are some foods included in the tour?,tour_inquiry,Is lunch included in tour?
+647,What are the benefits of picnic lunch for tour?,tour_inquiry,Is lunch included in tour?
+648,Is food included on tour?,tour_inquiry,Is food included in tour?
+649,What is included in a tour?,tour_inquiry,Is food included in tour?
+650,Is there food included in a tour?,tour_inquiry,Is food included in tour?
+651,Where can I find my first address or our last name where I'll be picked up?,tour_inquiry_pick_up,Is there a physical address where we will be picked up?
+652,Is there a physical address where we can be picked up?,tour_inquiry_pick_up,Is there a physical address where we will be picked up?
+653,What is a physical address where you will be picked up?,tour_inquiry_pick_up,Is there a physical address where we will be picked up?
+654,Will you pick up the children at my address?,tour_inquiry_pick_up,Is there a physical address where we will be picked up?
+655,Is it still a little unclear where to meet?,tour_inquiry_pick_up,It just seems a little unclear where to meet.
+656,What is a meeting point?,tour_inquiry_pick_up,It just seems a little unclear where to meet.
+657,Where to meet?,tour_inquiry_pick_up,It just seems a little unclear where to meet.
+658,I am getting rather confused where to meet the man. I am having troubles.,tour_inquiry_pick_up,It just seems a little unclear where to meet.
+659,When do you plan a tour?,tour_inquiry_pick_up,When should I be ready for tour?
+660,When do you think you should be ready for a tour?,tour_inquiry_pick_up,When should I be ready for tour?
+661,When should I get ready for tour?,tour_inquiry_pick_up,When should I be ready for tour?
+662,When should I be ready to tour?,tour_inquiry_pick_up,When should I be ready for tour?
+663,Where does the tour> meet?,tour_inquiry_pick_up,Where does <tour> meet?
+664,Where is your tour?,tour_inquiry_pick_up,Where does <tour> meet?
+665,Where does tour> meet?,tour_inquiry_pick_up,Where does <tour> meet?
+666,Where is tour> based?,tour_inquiry_pick_up,Where does <tour> meet?
+667,Is pick-up included in this plan?,tour_inquiry_pick_up,Is pick-up included?
+668,Is pick up included in my fee?,tour_inquiry_pick_up,Is pick-up included?
+669,When will pick-up be included or not?,tour_inquiry_pick_up,Is pick-up included?
+670,"Hi name>! Thank you, I am a tour guide in location> and I was wondering if there is a way I can offer my tours on your website (the Tour Guide Business Directory)?",tour_offer,"Hi <name>! Thank you, I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website"
+671,How can I start a website to get tours in your area?,tour_offer,"Hi <name>! Thank you, I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website"
+672,"Hi name>! Thank you, I am a tour guide in location> and I was wondering if there is a way I can offer my tours on your website. I hoped you would find an easy way.",tour_offer,"Hi <name>! Thank you, I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website"
+673,What is the way to offer tours on your website?,tour_offer,"Hi <name>! Thank you, I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website"
+674,Hi name> I am a tour guide in location> and I was wondering if there is a way I can offer my tours on your website?,tour_offer,Hi <name>! I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website
+675,What should I do if I am looking to tour your website?,tour_offer,Hi <name>! I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website
+676,I am a tour guide in location>. I was wondering how do I travel with you?,tour_offer,Hi <name>! I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website
+677,Hello name>! I am a tour guide in location> and I was wondering if there is a way I can offer my tours on your website?,tour_offer,Hi <name>! I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website
+678,I would like to partner with you. Please contact me.,tour_offer,I would like to partner with your site
+679,Why can't I sign up to partner with your site?,tour_offer,I would like to partner with your site
+680,"I am interested to partner with your site. I use your website, I would like to give you a better review. Please read the full summary.",tour_offer,I would like to partner with your site
+681,I want to partner with your site. What do you offer?,tour_offer,I would like to partner with your site
+682,I am interested in working with an app like the one you are using. Would you like to partner with me?,tour_offer,I would like to partner with your app
+683,Why would I like to partner with your app?,tour_offer,I would like to partner with your app
+684,"I would like to partner with your app. I am old school, I'd like the App. I'll try to build a website but can't afford to spend money.",tour_offer,I would like to partner with your app
+685,I am so curious to partner with your app and would like to submit a request.,tour_offer,I would like to partner with your app
+686,Are tours available in Thailand?,tour_offer,We have new tours available
+687,We have newly released tour available.,tour_offer,We have new tours available
+688,What are new tours on Tours?,tour_offer,We have new tours available
+689,We have new tours available now!,tour_offer,We have new tours available
+690,Information on tours was not correct.,tour_offer,Information on tour is not correct
+691,Tour information is inaccurate. Please verify.,tour_offer,Information on tour is not correct
+692,"I know of many people saying the tour is in a different country on the tour, but the information on the tour is correct.",tour_offer,Information on tour is not correct
+693,What are the inaccurate information on tour?,tour_offer,Information on tour is not correct
